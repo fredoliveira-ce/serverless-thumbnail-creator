@@ -1,0 +1,9 @@
+{
+  "name": "python-s3-thumbnail",
+  "description": "",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-python-requirements": "^4.0.4"
+  }
+}
